@@ -30,3 +30,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 ```
 
 For a deeper explination of how it works, [read this article](https://www.a1k0n.net/2011/07/20/donut-math.html) by A1K0N.
+
+## How to run
+
+`gcc donut.c && ./a.out`
