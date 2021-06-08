@@ -33,4 +33,4 @@ For a deeper explination of how it works, [read this article](https://www.a1k0n.
 
 ## How to run
 
-`gcc donut.c && ./a.out`
+`gcc donut.c -lm && ./a.out`
